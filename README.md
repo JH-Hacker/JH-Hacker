@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Junior-Hacher
+- 👋 Hi, I’m @Junior-Hacker
 - 👀 I’m interested in Hacking
 - 🌱 I’m currently learning Hacking
 - 💞️ I’m looking to collaborate on ...
